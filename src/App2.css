@@ -1,0 +1,29 @@
+h1 {
+    background-color: black;
+    padding: 20px;
+    font-family: 'Exo', sans-serif;
+    color: lightblue;
+    font-size: 28px;
+    text-align: center;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.vistaTabla{
+    text-align: center;
+    padding: 6px;
+    width: 620px;
+    margin-right:auto;
+    margin-left:auto;
+    
+}
+
+h4 {
+    background-color: teal;
+    padding: 10px;
+    margin: 0px;
+    
+    color: white;
+    font-size: 15px;
+
+}
